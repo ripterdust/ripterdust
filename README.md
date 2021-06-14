@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ripterdust
 - 👀 I’m interested in React.js and rubiks cubes.
 - 🌱 I’m currently learning React.js and Javascript.
-- 💞️ I’m looking to collaborate on open source.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me ...
 
 <!---
