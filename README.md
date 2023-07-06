@@ -1,6 +1,8 @@
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D12AQEwYz74Mf7XKA/article-cover_image-shrink_600_2000/0/1677431973169?e=1694044800&v=beta&t=1ZsiunF6ukC3f_HzQfYU6vgHiKQIqybIP08uGwKP7aU" />
+</p>
 <h1 align="center">Hi 👋, I'm Bryan Arévalo</h1>
 <h3 align="center">A passionate Fullstack software developer from Guatemala</h3>
-
 - 🔭 I’m currently working on [Idukay](https://idukay.net/)
 
 - 🌱 I’m currently learning **Spring Boot**
