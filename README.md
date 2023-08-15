@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Fullstack software developer from Guatemala</h3>
 - 🔭 I’m currently working on [Idukay](https://idukay.net/)
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Scala and AKKA**
 
 - 👨‍💻 All of my projects are available at [https://ripterdust.github.io/Portfolio2022](https://ripterdust.github.io/Portfolio2022)
 
