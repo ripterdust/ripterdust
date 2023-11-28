@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Bryan Arévalo</h1>
 <h3 align="center">A passionate Fullstack software developer from Guatemala</h3>
-- 🔭 I’m currently working on [Idukay](https://idukay.net/)
+- 🔭 I’m currently working on [TELUS international - Digital solutions](https://www.telusinternational.com/)
 
 - 🌱 I’m currently learning **Angular and NestJS**
 
